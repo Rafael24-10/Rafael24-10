@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Rafael Marques!
 
-<!--
-**Rafael24-10/Rafael24-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer passionate about technology and programming.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on open source projects.
+- 🌱 Learning more about web development.
+- 👯 Looking to collaborate on interesting projects.
+- 💬 Ask me about: PHP, Laravel, JavaScript, and more!
+- 📫 How to reach me: [rafaelevonez@gmail.com](mailto:rafaelevonez@gmail.com)
+
+## Projects
+
+Here are some of my recent projects:
+
+<ul>
+  <li><a href="https://github.com/Rafael24-10/Chat">Realtime Chat</a></li>
+  <li><a href="https://github.com/your-username/password_manager">Password Manager</a></li>
+  <li><a href="https://github.com/your-username/MyPasswords">MyPasswods (laravel)</a></li>
+</ul>
+
+Thank you for visiting my profile!
