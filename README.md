@@ -16,8 +16,8 @@ Here are some of my recent projects:
 
 <ul>
   <li><a href="https://github.com/Rafael24-10/Chat">Realtime Chat</a></li>
-  <li><a href="https://github.com/your-username/password_manager">Password Manager</a></li>
-  <li><a href="https://github.com/your-username/MyPasswords">MyPasswods (laravel)</a></li>
+  <li><a href="https://github.com/Rafael24-10/password_manager">Password Manager</a></li>
+  <li><a href="https://github.com/Rafael24-10/MyPasswords">MyPasswods (laravel)</a></li>
 </ul>
 
 Thank you for visiting my profile!
