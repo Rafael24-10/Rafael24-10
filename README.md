@@ -18,6 +18,7 @@ Here are some of my recent projects:
   <li><a href="https://github.com/Rafael24-10/Chat">Realtime Chat</a></li>
   <li><a href="https://github.com/Rafael24-10/password_manager">Password Manager</a></li>
   <li><a href="https://github.com/Rafael24-10/MyPasswords">MyPasswods (laravel)</a></li>
+  <li><a href="https://github.com/Rafael24-10/history_for_termo">History for Termo (Brazilian Wordle)</a></li>
 </ul>
 
 Thank you for visiting my profile!
